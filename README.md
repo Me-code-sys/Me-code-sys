@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Me-code-sys
+- 👋 Hi, I’m Meshack Bett
 - 👀 I’m interested in  python and data engineering at large
 - 🌱 I’m currently learning python and data tiols
 - 💞️ I’m looking to collaborate on both
